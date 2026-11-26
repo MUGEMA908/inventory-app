@@ -1,11 +1,23 @@
 # Inventory Management System (Laravel)
 
-Link: PUT-YOUR-DEPLOYED-LINK-HERE
+## Login accounts
+LOGISTIC OFFICER
+username: logistic
+password: Logistic@2026
 
-| Role        | Username    | Password |
-|-------------|-------------|----------|
-| Logistic    | logistic    | 12345    |
-| Coordinator | coordinator | 12345    |
-| HoD         | hod         | 12345    |
+COORDINATOR
+username: coordinator
+password: Coord@2026
 
-Setup: `php artisan migrate` then `php artisan serve`
+HEAD OF DEPARTMENT
+username: hod
+password: HoD@2026
+
+# MEMBERS OF GROUP 2
+NIYONSABA EUGENE       24RP06296
+MUJAWUMUKIZA Bonna     24RP04695
+BYUKUSENGE Providence  24RP03148
+NTIRENGANYA Marlene    24RP04411
+NDATIMANA Solange      24RP01687
+HAGENIMANA Abraham     24RP02725
+SHAMI Elise            24RP03986
